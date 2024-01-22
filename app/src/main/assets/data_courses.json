@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Crea tu primera App con MIT App Inventor",
+    "subtitle": "Explora el desarrollo de apps móviles con MIT App Inventor: sencillo, intuitivo y perfecto para principiantes.",
+    "picture": "72d6f740-e904-41f6-834a-adf6bd5217e8.jpeg",
+    "slug": "mit-app-inventor",
+    "duration": "3 horas",
+    "start": "Febrero 2024",
+    "level": "Basico",
+    "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's"
+  },
+  {
+    "name": "Sistemas de diseño desde cero",
+    "subtitle": "Aprende a estructurar y manejar Design Tokens en sistemas de diseño modernos.",
+    "picture": "8f721424-28b4-49be-926c-fb594102680c.png",
+    "slug": "sistemas-diseño",
+    "duration": "5 horas",
+    "start": "Marzo 2024",
+    "level": "Basico",
+    "detail": "but also the leap into electronic typesetting, remaining essentially unchanged. It"
+  },
+  {
+    "name": "Vue.Js desde cero 2024",
+    "subtitle": "Domina Vue.js en su versión más actualizada y crea interfaces de usuario dinámicas y eficientes.",
+    "picture": "70e0dde8-b0c3-4814-bc3a-51f3f33c5bad.png",
+    "slug": "vuejs",
+    "duration": "4 horas",
+    "start": "Abril 2024",
+    "level": "Basico",
+    "detail": "containing Lorem Ipsum passages, and more recently with desktop"
+  },
+  {
+    "name": "Bases de datos con Java y Spring Data",
+    "subtitle": " Transforma datos en soluciones con Java y Spring: ¡Domina las bases de datos y eleva tus proyectos!",
+    "picture": "b5c0ee4c-304b-4cc9-b8f1-3be8baa89594.png",
+    "slug": "db-java",
+    "duration": "8 horas",
+    "start": "Enero 2024",
+    "level": "Basico",
+    "detail": "opposed to using 'Content here, content here', making it look like readable English"
+  },
+  {
+    "name": "Domain Driven Design (DDD)",
+    "subtitle": "Domina los fundamentos de una de las metodologías más usadas por las grandes empresas para crear software de calidad.",
+    "picture": "4f55c006-21c4-4b91-b1ce-8ba4d5721874.png",
+    "slug": "ddd",
+    "duration": "6 horas",
+    "start": "Marzo 2024",
+    "level": "Intermedio",
+    "detail": "many web sites still in their infancy. Various versions have evolved over the years, sometimes"
+  },
+  {
+    "name": "¿Cómo desplegar tus aplicaciones web?",
+    "subtitle": "Aprende a desplegar aplicaciones web con las herramientas más populares del mercado (Netlify, Github Pages, AWS, etc.)",
+    "picture": "f28ec44d-4c0a-46eb-9310-c14fdc5616b9.png",
+    "slug": "deploy",
+    "duration": "6 horas",
+    "start": "Enero 2024",
+    "level": "Basico",
+    "detail": "elief, Lorem Ipsum is not simply random text. It has roots in a piece of classical"
+  },
+  {
+    "name": "Desarrollo de apps con Firebase",
+    "subtitle": "Aprende a crear aplicaciones móviles y web de forma fácil y segura usando Firebase, el BaaS más popular de Google.",
+    "picture": "d660fb87-83de-4890-ab7d-84ee9371ddd0.png",
+    "slug": "firebase",
+    "duration": "6 horas",
+    "start": "Febrero 2024",
+    "level": "Basico",
+    "detail": "book. It has survived not only five centuries, but also the leap into electronic"
+  },
+  {
+    "name": "HTML desde cero  (2024)",
+    "subtitle": "Domina el lenguaje sobre el que está construida toda la web con el mejor curso en español. En vivo todos los martes y jueves a las 5 PM (PE/CO)",
+    "picture": "c32aad4d-6dd6-4ae5-aa86-8254069988df.png",
+    "slug": "html",
+    "duration": "6 horas",
+    "start": "Marzo 2024",
+    "level": "Basico",
+    "detail": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical"
+  },
+  {
+    "name": "Autenticación con JSON Web Tokens (JWT)",
+    "subtitle": "Domina los fundamentos de uno de los estándares más populares de autenticación en la web",
+    "picture": "cd224d97-9f7a-41b5-a34c-9593255a3e39.png",
+    "slug": "jwt",
+    "duration": "6 horas",
+    "start": "Enero 2024",
+    "level": "Basico",
+    "detail": "It is a long established fact that a reader will be distracted by the readable content of a page"
+  },
+  {
+    "name": "Microservicios con Java y Spring Boot",
+    "subtitle": "Aprende a crear microservicios con buenas prácticas usando Java y Spring Boot",
+    "picture": "d60325fc-9670-423c-9329-baf9e73e2540.png",
+    "slug": "microservicios-java",
+    "duration": "6 horas",
+    "start": "Enero 2024",
+    "level": "Intermedio",
+    "detail": "as opposed to using 'Content here, content here', making it look like readable English"
+  }
+]

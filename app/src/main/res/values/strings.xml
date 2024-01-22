@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EDteamCourseProject</string>
+    <string name="courses_title">EDteam</string>
+    <string name="courses_subtitle">Últimos cursos diponibles</string>
+</resources>
